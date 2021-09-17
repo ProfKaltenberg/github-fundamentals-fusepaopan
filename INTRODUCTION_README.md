@@ -1,4 +1,4 @@
-First pull request ECO590
+First pull request
 
 # Data Analytics
 ## ECO590
